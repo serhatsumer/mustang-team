@@ -1,4 +1,52 @@
+<<<<<<< Updated upstream
 #melody {
         border-style:ridge;
         border-width:6px;
 }
+=======
+#nav {
+  position: relative;
+  background-color: #01689b;
+  height: 60px;
+  display: grid;
+  line-height: 0.8;
+  font-weight: 150;
+  font-size: 13px;
+  
+}
+
+
+/* navigation */
+
+.nav {
+  border-bottom: 1px solid #eaeaeb;
+  text-align: right;
+  height: 70px;
+  line-height: 70px;
+  position: relative;
+  display: inline-block;
+  margin-left: 15%;
+}
+
+.menu {
+  margin: 0 30px 0 0;
+  
+}
+
+.menu a {
+  
+  clear: both;
+  text-decoration: none;
+  color: white;
+  margin: 0 4px;/**/
+  line-height: 75px;
+  font-size: 14px;/**/
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+  
+ 
+>>>>>>> Stashed changes
